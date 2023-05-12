@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import Nombre from './components/Nombre'
+import Precio from './components/Precio'
 import './App.css'
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
   return (
     <div className='App'>
       <Nombre/>
+      <Precio/>
     </div>
   )
 }
