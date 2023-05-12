@@ -1,0 +1,44 @@
+.nombre-milkshake {
+    width: 164px;
+    height: 27px;
+    left: 46px;
+    top: 53px;
+
+    font-family: 'Readex Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #000000;
+}
+.ingredientes-milkshake {
+    
+    width: 170px;
+    height: 15px;
+    left: 27px;
+    top: 73px;
+
+    font-family: 'Readex Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+
+    color: rgba(0, 0, 0, 0.64);
+}
+.rectangulo {
+    box-sizing: border-box;
+
+    
+    width: 15px;
+    height: 14px;
+    left: 25px;
+    top: 266px;
+
+    background: #FFFFFF;
+    border: 1.5px solid #2D9737;
+    border-radius: 3px;
+}
